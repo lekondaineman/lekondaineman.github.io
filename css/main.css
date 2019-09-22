@@ -1,0 +1,16 @@
+body {
+  background: url(https://sun1-20.userapi.com/c851436/v851436085/1c9026/_pBBMXA2we8.jpg);
+  background-size: cover;
+}
+.text {
+  margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+a {
+	text-decoration: none;
+	color: #ffffff;
+}
